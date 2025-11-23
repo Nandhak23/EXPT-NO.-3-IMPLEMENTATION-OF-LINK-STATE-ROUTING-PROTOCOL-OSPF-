@@ -22,6 +22,8 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
+![WhatsApp Image 2025-11-23 at 20 20 42_7e2b6f00](https://github.com/user-attachments/assets/c5aa32ff-4bd8-4333-be2e-1efb67846426)
+![WhatsApp Image 2025-11-23 at 20 20 43_2d5a1efa](https://github.com/user-attachments/assets/31284f14-2ccc-40e8-a360-a683fa200997)
 
 
 
